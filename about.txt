@@ -1,1 +1,5 @@
-this is the about file for a 2 modification of facial recorgnition
+this is the about file for a 2 modification of facial recorgnition.
+
+
+ second  : we are modifing this file from git remote not from git bash
+ 
